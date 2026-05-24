@@ -299,6 +299,7 @@ let main argv =
             if gamestate.Player.Hp > 0 then
                 roundPlay gamestate
             else
+                printfn "\n Game Over... You have fallen in battle."
                 GameLogic.gameOver gamestate.Round 
         else
             if gamestate.Player.Hp > 0 then
