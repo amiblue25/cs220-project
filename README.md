@@ -57,4 +57,5 @@ The player enters `1`, changing 3 Water symbols in their reels to random element
 * **Changes:** None. The final implementation fully conforms to the original proposal submitted on May 4, 2026.
 
 ## 6. Use of Large Language Models (LLM)
+LLM was used for translating from korean to english.
 
