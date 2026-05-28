@@ -36,8 +36,10 @@ dotnet run
 The game outputs the current round: `1`, enemy information (Element: `Grass`, HP: `30`), and the player's current and maximum HP (`30/30`) to the terminal. The system prompts the player to spin the slot machine. 
 The player presses the `Enter` key. If the player does not press the `Enter` key, the game waits until the `Enter` key is pressed. The game prints a 3x5 symbol grid (slot result):
 
-Grass Grass Water Fire  Fire
+Grass Grass Water Fire  Fire 
+
 Fire  Grass Fire  Water Grass
+
 Grass Water Grass Water Water
 
 With 5 Fire symbols, 6 Grass symbols, and 4 Water symbols, the enemy's HP is reduced by a total of 5x2 + 6x1 = 16. Since the enemy's remaining HP is 14 (greater than 0), the enemy counterattacks and reduces the player's HP by 5.
