@@ -42,6 +42,12 @@ Fire  Grass Fire  Water Grass
 
 Grass Water Grass Water Water
 
+🍃🍃💧🔥🔥
+
+🔥🍃🔥💧🍃
+
+🍃💧🍃💧💧
+
 With 5 Fire symbols, 6 Grass symbols, and 4 Water symbols, the enemy's HP is reduced by a total of 5x2 + 6x1 = 16. Since the enemy's remaining HP is 14 (greater than 0), the enemy counterattacks and reduces the player's HP by 5.
 The game outputs the updated enemy HP (14) and player HP (25), and prompts the player to spin the slot machine again. When this process repeats and the enemy's HP reaches 0, the game outputs reward options. If an invalid reward option number is entered, a message prompts the player to enter a valid one.
 The player enters `1`, changing 3 Water symbols in their reels to random element symbols: Grass, Fire, and Fire. Since the player's HP is greater than 0 and the cleared round is not the 10th round, the game outputs the updated round information.
